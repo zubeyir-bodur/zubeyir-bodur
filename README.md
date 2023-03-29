@@ -2,7 +2,7 @@
 
 I'm a computer science student and a junior software engineer, who is mostly into games, graphics, and any tech or academic stuff that is in the domain of games.
 
-🌱 I’m currently learning graphics programming with OpenGL and working on desktop development with Qt 🔭
+🌱 I’m currently learning computational geometry and working on desktop development with Qt 🔭
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zubeyir-bodur&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
