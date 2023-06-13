@@ -4,10 +4,9 @@ I'm a computer science student and a junior software engineer, who is mostly int
 
 🌱 I’m currently learning computational geometry and working on desktop development with Qt 🔭
 
+<!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zubeyir-bodur&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
-<!--
 **zubeyir-bodur/zubeyir-bodur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
